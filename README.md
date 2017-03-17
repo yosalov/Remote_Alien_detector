@@ -1,4 +1,5 @@
 # Remote Entity Detector
+In our modern age of CRISPER technology, Robotics and Trans-humanism it is useful to be able to detect the difference between Human or other entities remotely from a distance of at least one meter and preferably without the subject being aware of it.
 Remote Entity Detector seeks to incorporate the latest software and hardware technologies for the purposes of developing a reliable accurate remote non-human detection system to be used with smartphones. 
 Guidance: TECHNOLOGY ASSESSMENT 
 a) asses available hardware and software technologies related to human biometrics including thermal imaging and microwave cameras, parabolic microphones and other possible remote biometric readers. 
