@@ -6,6 +6,5 @@ a) asses available hardware and software technologies related to human biometric
 b) Use and calibrate all of the above technology preferably creating redundant systems for 100% accurate human biological entity verification.
 c) Use and calibrate all of above technology to detect known terrestrial animals, preferably with accurate life form identification.
 d) Use and calibrate all of the above technology to detect known robotics and non biological systems.
-By process of elimination of the above entity detection what is left is EBE detection.
 Base system should be developed and newer versions refined with added features and detection capabilities.
 System will be a smart phone attachment that may include special cameras, microphones, lasers and other potentially useful detection technology.
